@@ -29,4 +29,8 @@ To scrape a hashtag for media:
 It may be useful to specify the ```--maximum <#>``` argument to limit the total number of items to scrape when scraping by hashtag.  
   
 To specify multiple users, pass a delimited list of users:  
-```$ instagram-scraper username1,username2,username3```
+```$ instagram-scraper username1,username2,username3```  
+  
+  
+Code By [@apokky_](https://www.instagram.com/apokky_/)
+    
